@@ -1,4 +1,4 @@
-my-account-project/
+clarivate_assessment/
 ├── backend/(clarivate_be_assessment)                # Node.js backend API
 │   ├── controllers/
 │   ├── models/
