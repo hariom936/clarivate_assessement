@@ -1,0 +1,13 @@
+backend/
+├── src/ # main source code directory
+│   ├── config/ # configuration files
+│   |   ├── apiConfig.ts/ # API configuration
+|   │   ├── config.ts/ # main configuration file
+|   │   ├── dbconfig.ts/ # database configuration
+|   │   ├── winston.ts/ # logger configuration
+│   ├── users/
+│   │   ├── users.controller.ts/ # controller for user-related routes
+│   │   ├── users.service.ts/ # service for user-related logic
+│   └── main.ts
+├── package.json
+├── tsconfig.json
